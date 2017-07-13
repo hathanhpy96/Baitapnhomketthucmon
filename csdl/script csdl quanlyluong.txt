@@ -1,0 +1,7 @@
+create database quanlytienluong
+
+create table login(
+user varchar(10) not null primary key,
+pass varchar(10) not null,
+quyen int not null check (quyen >0)
+)
