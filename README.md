@@ -1,4 +1,4 @@
-<img src="https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjF_vn-wobVAhWHOo8KHQZLAbIQjRwIBw&url=http%3A%2F%2Fbloglaptrinh.vn%2Fcode-quan-ly-nhan-su-va-tien-luong-c-bao-cao%2F&psig=AFQjCNGpeHdHteomt76fQ0v8Y8deoRfgOw&ust=1500044357968785"/>
+<img src="https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwisr-jsgYjVAhVMrY8KHU0uDVoQjRwIBw&url=http%3A%2F%2Fwww.hosco.com.vn%2Ftin-tuc%2Fphan-mem-nhan-su-quan-ly-tien-luong-cho-nguoi-quan-ly.html&psig=AFQjCNETtSybi4j-c52kLjtKS46ID23tZw&ust=1500095620885211"/>
 <hr>
 <h4> XÂY DỰNG PHÀN MỀM QUẢN LÝ TIỀN LƯƠNG </h4>
 <ol><strong> Thành viên thực hiện dự án </strong></pl>
